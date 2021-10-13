@@ -92,5 +92,5 @@ CSS          12 mins         ▒░░░░░░░░░░░░░░░░
 
 📈 **GitHub的状态**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=coderqmj&show_icons=true&theme=gruvbox" alt="coderqmj" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=coderqmj&show_icons=true&theme=radical" alt="coderqmj" />
 ----------
