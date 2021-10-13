@@ -71,9 +71,9 @@
   <summary>React</summary>
   <div style="width: 98%; margin: 0 auto">
       <ul>
-        <li><a href="https://coderqmj.github.io/pages/React/React%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html">系统学习React</a></li>
-      <li><a href="https://coderqmj.github.io/pages/React/redux%E5%AD%A6%E4%B9%A0.html">Redux学习</a></li>
-<li><a href="https://coderqmj.github.io/pages/React/%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB.html">源码阅读</a></li>
+        <li><a target="_blank" href="https://coderqmj.github.io/pages/React/React%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html">系统学习React</a></li>
+      <li><a target="_blank" href="https://coderqmj.github.io/pages/React/redux%E5%AD%A6%E4%B9%A0.html">Redux学习</a></li>
+<li><a target="_blank" href="https://coderqmj.github.io/pages/React/%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB.html">源码阅读</a></li>
 </ul>
   </div>
 </details>
