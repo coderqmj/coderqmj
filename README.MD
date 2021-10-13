@@ -2,7 +2,7 @@
 
 <br />
 
-你好， 我是 [coderqmj](https://coderqmj.github.io/) ，出生于1998年，2021届本科毕业生，一位将近1年工作经验的前端开发工程师。
+你好， 我是 [coderqmj](https://coderqmj.github.io/) ，男生，出生于1998年，2021届本科毕业生，一位将近1年工作经验的前端开发工程师。主要
 
 
   <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
@@ -14,14 +14,26 @@
 **技术栈 与 开发工具:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://github.com/likaia/likaia/blob/main/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://github.com/likaia/likaia/blob/main/webstorm.png"></code>
 
-**我的开源项目:**
-
-[![Readme Card](https://github.com/coderqmj/music)](https://github.com/coderqmj/music)
+📊 **本周学习情况：**
+<!--START_SECTION:waka-->
+```text
+TypeScript   9 hrs 24 mins   ███████████░░░░░░░░░░░░░░   43.78 % 
+JavaScript   8 hrs 50 mins   ██████████▒░░░░░░░░░░░░░░   41.21 % 
+JSX          2 hrs 12 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+HTML         45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+CSS          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+```
+<!--END_SECTION:waka-->
 
 ----------
 
@@ -78,7 +90,7 @@
   </div>
 </details>
 
-📈 my github stats
+📈 **GitHub的状态**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=coderqmj&show_icons=true&theme=gotham" alt="coderqmj" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=coderqmj&show_icons=true&theme=gruvbox" alt="coderqmj" />
 ----------
