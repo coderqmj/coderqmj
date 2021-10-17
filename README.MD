@@ -99,8 +99,8 @@ CSS          12 mins         ▒░░░░░░░░░░░░░░░░
       <li><a target="_blank" href="https://coderqmj.github.io/pages/JavaScript/%E6%89%8B%E5%86%99%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95.html">手写常用方法</a></li>
       <li><a target="_blank" href="https://coderqmj.github.io/pages/JavaScript/%E9%A1%B9%E7%9B%AE%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95.html">项目中常用方法</a></li>
       <li><a target="_blank" href="https://coderqmj.github.io/pages/JavaScript/axios%E4%BA%8C%E6%AC%A1%E5%B0%81%E8%A3%85.html">axios二次封装</a></li>
-      <li><a target="_blank" href="">axios二次封装</a></li>
-      <li><a target="_blank" href="">axios二次封装</a></li>
+      <!-- <li><a target="_blank" href="">axios二次封装</a></li>
+      <li><a target="_blank" href="">axios二次封装</a></li> -->
     </ul>
   </div>
 </details>
