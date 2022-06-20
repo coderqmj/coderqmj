@@ -1,4 +1,4 @@
-### Hey，我是coderqmj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey，我是coderqmj 
 
 <br />
 
@@ -7,7 +7,7 @@
 
   <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
 
-- 💬 如果你对我感兴趣，可以加我[微信]() 进一步交流。
+
 - 📫 我的邮箱: [1732935973@qq.com](mailto:1732935973@qq.com);
 - 📝 [我的个人博客](https://coderqmj.github.io/)
 
