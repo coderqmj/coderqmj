@@ -2,7 +2,7 @@
 
 <br />
 
-你好， 我是 [coderqmj](https://coderqmj.github.io/) ，男生，出生于1998年，2021届本科毕业生，一位将近1年工作经验的前端开发工程师。
+你好， 我是 [coderqmj](https://coderqmj.github.io/) ，男生，出生于1998年，2021届本科毕业生，一位3年工作经验的前端开发工程师。
 
 
   <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
